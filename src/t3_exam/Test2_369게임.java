@@ -1,6 +1,6 @@
 package t3_exam;
 
-// 배열사용예제
+// 배열을 사용한 경우
 public class Test2_369게임 {
 	public static void main(String[] args) {
 		String[] num = new String[100];
